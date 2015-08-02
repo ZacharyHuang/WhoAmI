@@ -1,9 +1,5 @@
 #Zeyan Huang
 
-RAW Programmer
-
-##Contact Me
-
 - Phone: +86 152-1083-7162
 - Email: 244502111@qq.com
 - WeChat: np2445
