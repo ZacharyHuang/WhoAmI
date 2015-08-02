@@ -45,14 +45,14 @@ To design, develop and implement a monitoring and controlling system to achieve 
 
 ###[Microsoft ARD](http://www.microsoft.com/zh-cn/ard/default.aspx) (2015.7 - 2015.9)
 
-####Mining related videos of Bing news =====> ¡¡¡¡ 50%
+####Mining related videos of Bing news =====> ã€€ã€€ 50%
 
 - Ramped up C#, SQL, database and virtual clusters tools of Microsoft in ONE week
 - Set up a pipeline(jobs running on virtual clusters) of the mining process and implemented each step of it
 - Implemented some process using C to improve the performance
 - *Improving the algorithms currently*
 
-####Design and Development on scenarios of Microsoft band ===>¡¡¡¡¡¡ 33%
+####Design and Development on scenarios of Microsoft band ===>ã€€ã€€ã€€ 33%
 
 - Presented some scenarios which is technically feasible and not implemented yet
 - Learned the APIs of Microsoft band and related devices
