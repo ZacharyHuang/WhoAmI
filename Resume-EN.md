@@ -4,12 +4,12 @@
 - Email: 244502111@qq.com
 - WeChat: np2445
 - Github: [ZacahryHuang](https://github.com/zacharyhuang)
-- Address: Room 1225, No. 10 dormitory, Beijing University of Posts & Telecommunications, No. 10 Xitucheng Road, Haidian district Beijing, China
+- Address: Room 1225, No. 10 dormitory, Beijing University of Posts & Telecommunications, No. 10 Xitucheng Road, Haidian district, Beijing, China
 
 ##Education
 
 - 2013.9 - 2016.4 **MS** in [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) Electronics & Communication Engineering
-- 2009.9 - 2013.6 **BS**[Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) Communication Engineering
+- 2009.9 - 2013.6 **BS** in [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) Communication Engineering
 
 ##Skills
 
@@ -25,11 +25,9 @@
 
 - Passed CET-6, able to work in English
 
----
-
 ##Projects
 
-###Monitoring and controlling system of electric vehicle wireless charging (2014.3 - Present) ==========> 99%
+###Monitoring and controlling system of electric car wireless charging (2014.3 - Present) ==========> 99%
 
 ####Project Aims
 
@@ -65,8 +63,6 @@ To design, develop and implement a monitoring and controlling system to achieve 
 - 2012.6  **First prize** of Beijing College-student Electronics Design Contest
 - 2012.4  **Second prize** of BUPT Intelligent Car Contest
 - 2012.4  **Honorable Mention** (Second prize) of Interdisciplinary Contest in Modeling (MCM/ICM)
-
----
 
 ##Self Evaluation
 
