@@ -33,7 +33,7 @@ RAW Programmer
 
 ##Projects
 
-###Monitoring and controlling system of electric vehicle wireless charging (2014.3 - Present) ¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡õ 99%
+###Monitoring and controlling system of electric vehicle wireless charging (2014.3 - Present) ==========> 99%
 
 ####Project Aims
 
@@ -47,16 +47,16 @@ To design, develop and implement a monitoring and controlling system to achieve 
 
 ##Internships
 
-###Microsoft ARG (2015.7 - 2015.9)
+###[Microsoft ARD](http://www.microsoft.com/zh-cn/ard/default.aspx) (2015.7 - 2015.9)
 
-####Mining related videos of Bing news ¡ö¡ö¡ö¡ö¡ö¡õ¡õ¡õ¡õ¡õ 50%
+####Mining related videos of Bing news =====> ¡¡¡¡ 50%
 
 - Ramped up C#, SQL, database and virtual clusters tools of Microsoft in ONE week
 - Set up a pipeline(jobs running on virtual clusters) of the mining process and implemented each step of it
 - Implemented some process using C to improve the performance
 - *Improving the algorithms currently*
 
-####Design and Development on scenarios of Microsoft band ¡ö¡ö¡ö¡õ¡õ¡õ¡õ¡õ¡õ¡õ 33%
+####Design and Development on scenarios of Microsoft band ===>¡¡¡¡¡¡ 33%
 
 - Presented some scenarios which is technically feasible and not implemented yet
 - Learned the APIs of Microsoft band and related devices
