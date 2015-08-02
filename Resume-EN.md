@@ -4,15 +4,15 @@ RAW Programmer
 
 ##Contact Me
 
-- Phone：+86 152-1083-7162
-- Email：244502111@qq.com
-- WeChat：np2445
-- Github：[ZacahryHuang](https://github.com/zacharyhuang)
-- Address：中国 北京市 海淀区 西土城路10号 北京邮电大学 学十楼 1225室
+- Phone: +86 152-1083-7162
+- Email: 244502111@qq.com
+- WeChat: np2445
+- Github: [ZacahryHuang](https://github.com/zacharyhuang)
+- Address: Room 1225, No. 10 dormitory, Beijing University of Posts & Telecommunications, No. 10 Xitucheng Road, Haidian district Beijing, China
 
 ##Education
 
-- 2013.9 - 2016.4  **MS** in [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) Electronics & Communication Engineering
+- 2013.9 - 2016.4 **MS** in [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) Electronics & Communication Engineering
 - 2009.9 - 2013.6 **BS**[Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) Communication Engineering
 
 ##Skills
@@ -21,13 +21,13 @@ RAW Programmer
 
 - Gifted programmer with good knowledge in Data Structs and Algorithms
 - Skillful use of **C/C++**, experienced in **Network (socket/select/epoll)**, **File operations** and **Multi-thread** programming
-- Familiar with TCP/IP, **HTTP** protocols and **C/S** architecture.
+- Familiar with TCP/IP, **HTTP** protocols and **C/S** architecture
 - Experienced in development on **Linux** and development **embedded** devices
 - Familiar with **epoll** frame (highly simultaneous access) , Basically understand **Nginx**
 
 ###English
 
-- Passed CET-6, able to work in English.
+- Passed CET-6, able to work in English
 
 ---
 
@@ -42,7 +42,7 @@ To design, develop and implement a monitoring and controlling system to achieve 
 ####My Contributions
 
  - Designed system architecture and communication protocol
- - Surveyed some development boards, develop and implement the charging pile module.
+ - Surveyed some development boards, develop and implement the charging pile module
  - **besides prospective tasks, a local control module was implemented**, which leads to the evolution of system architecture	
 
 ##Internships
@@ -52,7 +52,7 @@ To design, develop and implement a monitoring and controlling system to achieve 
 ####Mining related videos of Bing news ■■■■■□□□□□ 50%
 
 - Ramped up C#, SQL, database and virtual clusters tools of Microsoft in ONE week
-- Set up a pipeline(jobs running on virtual clusters) of the mining process and implemented each step of it.
+- Set up a pipeline(jobs running on virtual clusters) of the mining process and implemented each step of it
 - Implemented some process using C to improve the performance
 - *Improving the algorithms currently*
 
@@ -74,7 +74,7 @@ To design, develop and implement a monitoring and controlling system to achieve 
 
 ##Self Evaluation
 
-- Strong logical thinking and good ability to solve the problem quickly.
-- High responsibility and good spirit of dedication.
-- Excellent team work spirit, willing to communicate with others.
-- Excellent adaptability and good pressure resistance.
+- Strong logical thinking and good ability to solve the problem quickly
+- High responsibility and good spirit of dedication
+- Excellent team work spirit, willing to communicate with others
+- Excellent adaptability and good pressure resistance
