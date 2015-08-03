@@ -37,7 +37,7 @@ To design, develop and implement a monitoring and controlling system to achieve 
 
  - Designed system architecture and communication protocol
  - Surveyed some development boards, develop and implement the charging pile module
- - **besides prospective tasks, a local control module was implemented**, which leads to the evolution of system architecture	
+ - **Besides prospective tasks, a local control module was implemented**, which leads to the evolution of system architecture	
 
 ##Internships
 
@@ -54,7 +54,7 @@ To design, develop and implement a monitoring and controlling system to achieve 
 
 - Presented some scenarios which is technically feasible and not implemented yet
 - Learned the APIs of Microsoft band and related devices
-- *developing related functions currently*
+- *Developing related functions currently*
 
 
 ##Hornors
