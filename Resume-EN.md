@@ -23,7 +23,7 @@
 
 ###English
 
-- Passed CET-6, able to work in English
+- Passed CET-6, experienced working in English environment
 
 ##Projects
 
