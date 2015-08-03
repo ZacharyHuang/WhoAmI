@@ -3,7 +3,7 @@
 - Phone: +86 152-1083-7162
 - Email: 244502111@qq.com
 - WeChat: np2445
-- Github: [ZacahryHuang](https://github.com/zacharyhuang)
+- Github: [ZacharyHuang](https://github.com/zacharyhuang)
 - Address: Room 1225, No. 10 dormitory, Beijing University of Posts & Telecommunications, No. 10 Xitucheng Road, Haidian district, Beijing, China
 
 ##Education
